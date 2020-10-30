@@ -20,4 +20,8 @@ Step2:
   
 Step3:
   Jointing scracthes from VGGFace2 Model to Bi-LSTM and replace the last classifier layer as SVM model.
+  
+  Step4:
+  
+ @Gradcam could be used to visualize the Grad-Cam heat map.
  
